@@ -1,0 +1,16 @@
+{
+  "name": "climateChjangeApi",
+  "version": "1.0.0",
+  "description": "climat change API",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "Chigozie Ozo Ofoile",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.1"
+  }
+}
